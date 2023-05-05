@@ -1,0 +1,28 @@
+.bg{
+    background-color: cadetblue;
+    height: 50px;
+}
+.bg1{
+    background-color: blanchedalmond;
+}
+.row1{
+    min-height: 500px   ;
+}
+.bg2{
+    background-color: darkgrey;
+}
+.h250{
+    min-height: 250px;
+    border-radius: 10px;
+}
+
+.card1{
+    height: 120px;
+    width: 50px;
+    border-radius: 8px;
+}
+.card2{
+    height:120px;
+    width: 80%;
+    border-radius: 8px;
+}
